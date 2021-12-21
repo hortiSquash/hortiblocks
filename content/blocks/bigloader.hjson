@@ -1,0 +1,14 @@
+type: Unloader
+
+size: 2
+
+requirements: [
+    titanium/250
+    silicon/300
+    lead/50
+]
+speed: 1
+
+category: effect
+research: unloader
+group: transportation

@@ -1,0 +1,6 @@
+name: horti bigloader
+displayName: horti bigloader
+description: big unloader
+author: hortiSquash
+version: 69.0
+minGameVersion: 134
