@@ -1,0 +1,15 @@
+type: LogicDisplay
+name: HortiDefinition Display
+description: When high quality is not enough
+research: largeLogicDisplay
+requirements: [
+	{item: lead, amount: 2000}
+	{item: silicon, amount: 1500}
+	{item: copper, amount: 650}
+	{item: metaglass, amount: 1000}
+	{item: phase-fabric, amount: 750}
+]
+category: "logic"
+displaySize: 512
+scaleFactor: 0.46875
+size: 8

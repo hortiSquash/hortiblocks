@@ -1,13 +1,12 @@
-type: Unloader
-name: bigloader
-description: Harder Better Faster Stronger... Bigger
-research: unloader
+type: Router
+name: bigrouter
+description: Router
+research: router
 requirements: [
 	{item: titanium, amount: 250}
 	{item: silicon, amount: 300}
 	{item: lead, amount: 50}
 ]
-category: effect
 group: transportation
-size: 2
+size: 4
 speed: 1

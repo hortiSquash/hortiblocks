@@ -1,6 +1,8 @@
-name: horti bigloader
-displayName: horti bigloader
-description: big unloader
+name: "horti blocks"
+displayName: "horti blocks"
 author: hortiSquash
-version: 69.0
-minGameVersion: 134
+description: "Collection of joke blocks"
+version: "1.1"
+minGameVersion: "135"
+dependencies: [ ]
+hidden: false

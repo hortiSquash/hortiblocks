@@ -1,0 +1,14 @@
+type: Wall
+name: Magnetic Wall
+description: Magnetic Wall reflecting enemy fire. Requires lots of power and cooling.
+research: plastaniumWallLarge
+requirements: [
+	{item: silicon, amount: 80}
+	{item: titanium, amount: 150}
+	{item: copper, amount: 650}
+]
+category: "defense"
+size: 2
+insulated: true
+chanceDeflect: 0.95
+consumes: {"power": 5}
