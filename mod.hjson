@@ -3,6 +3,6 @@ displayName: "horti blocks"
 author: hortiSquash
 description: "Collection of joke blocks"
 version: "1.1"
-minGameVersion: "135"
+minGameVersion: "136"
 dependencies: [ ]
 hidden: false
